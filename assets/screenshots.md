@@ -1,8 +1,7 @@
-# Screenshot Placeholders
+# Screenshots
 
-Add production screenshots here:
+Screenshots used in the README:
 
-- `landing.png`
 - `upload.png`
-- `download.png`
-- `my-files.png`
+- `upload-page.png`
+- `download-page.png`
