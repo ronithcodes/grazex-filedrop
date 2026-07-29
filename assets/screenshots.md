@@ -2,6 +2,6 @@
 
 Screenshots used in the README:
 
-- `upload.png`
+- `landing-page.png`
 - `upload-page.png`
 - `download-page.png`

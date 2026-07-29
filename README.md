@@ -4,7 +4,7 @@ Upload. Share. Download.
 
 Grazex-FileDrop is a modern open-source file sharing platform. Users upload a supported file and instantly receive a hard-to-guess share link, a download page, a copy button, QR code, and download statistics.
 
-![Grazex-FileDrop upload screen](assets/upload-page.png)
+![Grazex-FileDrop landing page](assets/landing-page.png)
 
 ## Features
 
@@ -23,6 +23,10 @@ Grazex-FileDrop is a modern open-source file sharing platform. Users upload a su
 - MIT licensed
 
 ## Screenshots
+
+### Landing Page
+
+![Landing page with product hero](assets/landing-page.png)
 
 ### Upload Experience
 
